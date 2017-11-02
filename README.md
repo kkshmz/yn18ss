@@ -1,14 +1,12 @@
 ### Attractors
-![](https://rawgithubusercontent.com/kkshmz/yn18ss/pictures/attractors.png)
+![picture](/pictures/attractors.png)
 ### Mandelbrot
-![](/pictures/mandelbrot.png)
+![picture](/pictures/mandelbrot.png)
 ### Model noise
-![](/pictures/model-noise.png)
+![picture](/pictures/model-noise.png)
 ### Moire Study
-![](/pictures/moire-study.png)
+![picture](/pictures/moire-study.png)
 ### Moire rectellipse
-![](/pictures/moire-rectellipse.png)
+![picture](/pictures/moirerectellipse.png)
 ### Ripples
-![](/pictures/ripples.png)
-![]()
-![]()
+![picture](/pictures/ripples.png)
